@@ -1,0 +1,321 @@
+{
+  "updated": "2026-11-16T22:27:19.398851+00:00",
+  "window_days": 28,
+  "items": [
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-16T13:33:48+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers."
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/joy-and-curiosity-106",
+      "title": "Joy & Curiosity #106",
+      "source": "Register Spill (Thorsten Ball)",
+      "author": "Thorsten Ball",
+      "published": "2026-11-15T07:39:14+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Interesting & joyful things from the previous week"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-12T18:53:19+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more"
+    },
+    {
+      "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+      "title": "Bliki: Generated Glossary",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler",
+      "published": "2026-11-12T14:15:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such words and specialized meanings will be foreign to an LLM because they aren't in its training set, making it harder for the LLM to be effective when doing tasks in that domain. One technique to aid this is to use an LLM to generate a glossary of the terminology in that domain, and make this glossary available for any LLMs doing work in those circumstances. The sources for the LLM can be any material within the organization concerned such as docume"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "title": "aws-emulator",
+      "source": "Simon Willison – agentic-engineering",
+      "author": null,
+      "published": "2026-11-11T21:18:30+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great if you could download a single binary and use that as part of a standard test suite in other languag"
+    },
+    {
+      "url": "https://martinfowler.com/articles/tests-as-data.html",
+      "title": "Tests as data: ensuring AI-generated code does what we want",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-11-11T15:17:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Automated testing in the age of AI coding assistants is problematic: when AI agents write both production and test code, developers risk losing the assurance that automated tests protect against functional errors. Matteo Vaccari makes three claims: (1) when AI writes the code, developers become its customers; (2) therefore customer tests, not developer tests, become the primary contract between humans and AI; (3) moving that contract into test data rather than test code makes it easier to protect it from unexpected modifications by coding agents. All of this optimizes for human-readable tests "
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-10T15:00:21+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever"
+    },
+    {
+      "url": "https://martinfowler.com/fragments/2026-11-10.html",
+      "title": "Fragments: November 10",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-11-10T14:30:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last six months. It’s been a busy half-year, one that again has been dominated by AI, and that’s reflected in the many AI blips on the radar. The mass of blips makes it hard to develop a coherent story around trends, but Chris Ford has done a fine job of the writing the accompanying article on macro trends . One team of passionate people experimenting with ag"
+    },
+    {
+      "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+      "title": "Long-horizon agents and durable execution",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-11-10T14:10:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. Many things can go wrong during this time, including process crashes, network failures, and unanticipated real-world behavior. Kiran Prakash explains durable execution: an emerging pattern that helps agents recover from these failures and move towards their goal. In this programming model, the runtime keeps a record of the result of each step that interacts with the outside world so that, when a failure occurs, the program runs again, completed ste"
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+      "title": "AI and Irontown",
+      "source": "Armin Ronacher",
+      "author": "Armin Ronacher",
+      "published": "2026-11-09T00:00:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "For our last movie night we watched Princess Mononoke . I remembered loving that movie when I was younger, but watching it as an adult made me once again realize how Miyazaki has a way of expressing diverging sides without picking one. The film shows people, animals and spirits with legitimate and largely incompatible needs, and each faction is further engaged in infighting. A central arc of the story is Lady Eboshi’s Irontown, which gives people who were largely rejected by society work, protection and dignity. She gives shelter and work to those who have leprosy and to former sex workers. Th"
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/joy-and-curiosity-105",
+      "title": "Joy & Curiosity #105",
+      "source": "Register Spill (Thorsten Ball)",
+      "author": "Thorsten Ball",
+      "published": "2026-11-08T08:24:03+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Interesting & joyful things from the previous week"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "title": "The Pragmatic Summit 2027",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-06T19:39:15+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "title": "Scaling Slack and GitHub with Maude Lemaire",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-05T15:58:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands."
+    },
+    {
+      "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
+      "title": "The Data Product Platform Navigator",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-11-05T14:11:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Many organizations adopting data mesh and data products face a common challenge. They may be tasked with building a self-service platform for data products and data mesh from scratch, or they may have an existing platform that suffers from low adoption, preventing their data mesh from scaling. This article provides a platform navigator, based on the CNCF's Platform Engineering Maturity Model, to help you reason about your current situation and determine the next steps for your platform. more…"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "title": "How software engineering is changing: a tale of two eras",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-03T16:58:22+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries"
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/joy-and-curiosity-104",
+      "title": "Joy & Curiosity #104",
+      "source": "Register Spill (Thorsten Ball)",
+      "author": "Thorsten Ball",
+      "published": "2026-11-01T08:49:36+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Interesting & joyful things from the previous week"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "title": "The Pulse: Anthropic kills the coding interview",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-30T16:37:51+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io’s AI spend, Microsoft’s exit offer to engineers, and more"
+    },
+    {
+      "url": "https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents",
+      "title": "What Karl Marx Would Say About My Coding Agents",
+      "source": "Every – Source Code",
+      "author": "Loren Stewart / Source Code",
+      "published": "2026-10-30T16:07:28+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "in Source Code Midjourney/Every illustration. Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand Click here to read the full post Want the full text of all articles in RSS? Become a subscriber , or learn more ."
+    },
+    {
+      "url": "https://lethain.com/adopting-verification-pattern/",
+      "title": "Self-reinforcing quality / adopting verification pattern",
+      "source": "Irrational Exuberance (Will Larson)",
+      "author": null,
+      "published": "2026-10-30T12:00:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "After implementing the small-change pattern, Imprint Engineering’s next focus in improving our development loop has been implementing a verification loop for our software development. This is an increasingly common pattern, particularly popularized by poteto’s pstack , but you’ll find similar ideas emerging in other places as well, e.g. Niko Matsakis’ post on the correctness ratchet , among others. This captures some of the confusion I’ve seen in our initial rollout, and the particulars of how we are implementing the approach. What verification pattern is, and what it isn’t The verification pa"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "source": "Simon Willison – agentic-engineering",
+      "author": null,
+      "published": "2026-10-29T17:00:26+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into existence, then a dragon, then ride the dragon to fly around that castle. By Jacob's telling, Spawn"
+    },
+    {
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "title": "Bliki: LLM Voice",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler",
+      "published": "2026-10-29T14:28:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to the point of revulsion There are tools out there that claim to be able to tell the difference between LLM-written prose and the old-fashioned biological product. I'm wary of them, partly due skeptism about their accuracy, but also because it rather misses the point. The reaction to LLM-Voice is a human one, that sense"
+    },
+    {
+      "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+      "title": "Why are good developers so wary of agentic development?",
+      "source": "Martin Fowler",
+      "author": "Rachel Laycock (rlaycock@thoughtworks.com)",
+      "published": "2026-10-29T13:50:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "TL;DR Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone else and in many cases invent new tools and practices that support building the application well. So why have we had so much reluctance? The easy (lazy?) answer is that they love writing code, or they’re worried about their jobs. I’m sure that’s true for some people, some of the time. And I know it is"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-29T13:37:13+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Titus Winters shares lessons from engineering at Google’s scale and explores how AI is reshaping developer productivity and computer science education."
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
+      "title": "Custom Voices With Qwen3-TTS",
+      "source": "Armin Ronacher",
+      "author": "Armin Ronacher",
+      "published": "2026-10-29T00:00:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "With my kids I’m currently building a little dungeron crawler and we’re trying to learn a bit about game development along the way. However given that we live in the modern times of increasing capabilities we wanted to get a narrator and voice over. But we also wanted it to not sound like everyone’s standard AI voices so I looked into what options there are on the table. After some investigation I narrowed down to using Qwen3-TTS which uses voice embeddings for custom voices. With a bit of creativity you can also do more with those custom voices than appears initially. In case this is of inter"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "title": "GitHub Octoverse 2026",
+      "source": "Simon Willison – agentic-engineering",
+      "author": null,
+      "published": "2026-10-28T16:45:23+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of this year. New repository rate doubled this year, to 30.3 million per month. The report includes new nu"
+    },
+    {
+      "url": "https://martinfowler.com/fragments/2026-10-28.html",
+      "title": "Fragments: October 28",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-10-28T12:55:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time. Many of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s not what most people experience. One thing I do is use free-tier LLM chatbots, and I’m still finding that "
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "title": "Quoting Terk Terkowitz",
+      "source": "Simon Willison – agentic-engineering",
+      "author": null,
+      "published": "2026-10-28T10:09:07+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , ai , generative-ai , llms , agentic-engineering"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-27T16:19:22+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive"
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/joy-and-curiosity-103",
+      "title": "Joy & Curiosity #103",
+      "source": "Register Spill (Thorsten Ball)",
+      "author": "Thorsten Ball",
+      "published": "2026-10-25T07:11:23+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Interesting & joyful things from the previous week"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-22T14:08:21+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more"
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "title": "The revised rules of engineering management with Will Larson",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-21T16:58:21+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO."
+    },
+    {
+      "url": "https://martinfowler.com/fragments/2026-10-21.html",
+      "title": "Fragments: October 21",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-10-21T16:51:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you So when producing anything that is meant for other humans, if you use even a little AI, you risk the assumpt"
+    },
+    {
+      "url": "https://every.to/source-code/why-we-replaced-personal-agents-with-one-for-the-whole-company",
+      "title": "Why We Replaced Personal Agents With One for the Whole Company",
+      "source": "Every – Source Code",
+      "author": "Willie Williams / Source Code",
+      "published": "2026-10-20T18:58:45+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "in Source Code Midjourney/Every illustration. Moving from single-player agents to a shared Slack coworker made us rethink how conversations, connections, and permissions work Click here to read the full post Want the full text of all articles in RSS? Become a subscriber , or learn more ."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "title": "What’s the ROI of software engineers’ spending on AI?",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-10-20T17:34:18+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies – with some interesting findings"
+    },
+    {
+      "url": "https://hamel.dev/blog/posts/decision-model-evals/",
+      "title": "How To Use Decision Models for Evals",
+      "source": "Hamel Husain",
+      "author": "Antaripa Saha",
+      "published": "2026-10-20T07:00:00+00:00",
+      "first_seen": "2026-11-16T22:27:19.398851+00:00",
+      "summary": "Decision models have exploded onto the scene recently, starting with TypeSafe’s Jev, followed by Perplexity’s Decider, Liquid’s d1, Cloudflare’s Clef, and OpenAI’s Decisions API 1 . These models promise fast, inexpensive classification. Decision models are an appealing low-cost alternative to LLM judges 2 for automated evals. But whether they’re the right choice depends on the cost, performance, and latency requirements of your use case. We’ve also noticed people using the default decision threshold of 0.50 without checking whether it works well for their task. This can leave a lot of performa"
+    }
+  ]
+}

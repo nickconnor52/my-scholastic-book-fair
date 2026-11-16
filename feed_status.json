@@ -1,0 +1,77 @@
+{
+  "updated": "2026-11-16T22:27:19.398851+00:00",
+  "feeds": [
+    {
+      "name": "Simon Willison \u2013 agentic-engineering",
+      "url": "https://simonwillison.net/tags/agentic-engineering.atom",
+      "ok": true,
+      "http_status": 200,
+      "entries": 30,
+      "error": null
+    },
+    {
+      "name": "Hamel Husain",
+      "url": "https://hamel.dev/index.xml",
+      "ok": true,
+      "http_status": 200,
+      "entries": 20,
+      "error": null
+    },
+    {
+      "name": "Every \u2013 Source Code",
+      "url": "https://every.to/source-code/feed",
+      "ok": true,
+      "http_status": 200,
+      "entries": 50,
+      "error": null
+    },
+    {
+      "name": "Martin Fowler",
+      "url": "https://martinfowler.com/feed.atom",
+      "ok": true,
+      "http_status": 200,
+      "entries": 30,
+      "error": null
+    },
+    {
+      "name": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/feed",
+      "ok": true,
+      "http_status": 200,
+      "entries": 20,
+      "error": null
+    },
+    {
+      "name": "Register Spill (Thorsten Ball)",
+      "url": "https://registerspill.thorstenball.com/feed",
+      "ok": true,
+      "http_status": 200,
+      "entries": 20,
+      "error": null
+    },
+    {
+      "name": "Armin Ronacher",
+      "url": "https://lucumr.pocoo.org/feed.atom",
+      "ok": true,
+      "http_status": 200,
+      "entries": 10,
+      "error": null
+    },
+    {
+      "name": "Tidy First? (Kent Beck)",
+      "url": "https://tidyfirst.substack.com/feed",
+      "ok": false,
+      "http_status": 403,
+      "entries": 0,
+      "error": "<unknown>:2:1326: not well-formed (invalid token)"
+    },
+    {
+      "name": "Irrational Exuberance (Will Larson)",
+      "url": "https://lethain.com/feeds/",
+      "ok": true,
+      "http_status": 200,
+      "entries": 11,
+      "error": null
+    }
+  ]
+}
