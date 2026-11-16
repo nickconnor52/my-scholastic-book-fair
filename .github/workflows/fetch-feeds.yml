@@ -1,0 +1,42 @@
+name: Fetch feeds
+
+on:
+  schedule:
+    - cron: "17 10 * * *"   # daily, ~5am Eastern
+  workflow_dispatch: {}
+  push:
+    paths:
+      - feeds.opml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser==6.0.11
+
+      - run: python scripts/fetch_feeds.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "book-fair-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add items.json feed_status.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update feed items"
+            git push
+          fi

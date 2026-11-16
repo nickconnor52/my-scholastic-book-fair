@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Agentic Dev Reading – curated sources</title>
+    <dateCreated>Mon, 16 Nov 2026 17:05:00 -0500</dateCreated>
+  </head>
+  <body>
+    <outline text="Agentic Dev" title="Agentic Dev">
+      <outline type="rss" text="Simon Willison – agentic-engineering" title="Simon Willison – agentic-engineering" xmlUrl="https://simonwillison.net/tags/agentic-engineering.atom" htmlUrl="https://simonwillison.net/tags/agentic-engineering/"/>
+      <outline type="rss" text="Hamel Husain" title="Hamel Husain" xmlUrl="https://hamel.dev/index.xml" htmlUrl="https://hamel.dev/"/>
+      <outline type="rss" text="Every – Source Code" title="Every – Source Code" xmlUrl="https://every.to/source-code/feed" htmlUrl="https://every.to/source-code"/>
+      <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com/"/>
+      <outline type="rss" text="The Pragmatic Engineer" title="The Pragmatic Engineer" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com/"/>
+      <outline type="rss" text="Register Spill (Thorsten Ball)" title="Register Spill (Thorsten Ball)" xmlUrl="https://registerspill.thorstenball.com/feed" htmlUrl="https://registerspill.thorstenball.com/"/>
+      <outline type="rss" text="Armin Ronacher" title="Armin Ronacher" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl="https://lucumr.pocoo.org/"/>
+      <outline type="rss" text="Tidy First? (Kent Beck)" title="Tidy First? (Kent Beck)" xmlUrl="https://tidyfirst.substack.com/feed" htmlUrl="https://tidyfirst.substack.com/"/>
+      <outline type="rss" text="Irrational Exuberance (Will Larson)" title="Irrational Exuberance (Will Larson)" xmlUrl="https://lethain.com/feeds/" htmlUrl="https://lethain.com/"/>
+    </outline>
+  </body>
+</opml>
