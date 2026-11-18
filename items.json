@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-17T19:11:16.453184+00:00",
+  "updated": "2026-11-18T18:51:15.425539+00:00",
   "window_days": 28,
   "items": [
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "title": "Software factories and code reviews with Harjot Gill",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-18T18:08:52+00:00",
+      "first_seen": "2026-11-18T18:51:15.425539+00:00",
+      "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI."
+    },
+    {
+      "url": "https://martinfowler.com/articles/data-contracts.html",
+      "title": "Data Contracts",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-11-18T14:02:00+00:00",
+      "first_seen": "2026-11-18T18:51:15.425539+00:00",
+      "summary": "Data contracts are a way to describe the contents and guarantees of datasets. Simon Harrer and Arif Wider describe in detail what they are and how to use them. They apply practices from API design to data by treating them as data-providing services - such as data products - whose interfaces we want to define as clearly as possible. This approach significantly increases the robustness of large-scale data landscapes, and gives both people and AI agents the explicit, trustworthy metadata they need to work with data autonomously, which is why more and more enterprises are adopting them. more…"
+    },
     {
       "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
       "title": "Inference engineering for software engineers",
@@ -289,24 +307,6 @@
       "published": "2026-10-22T14:08:21+00:00",
       "first_seen": "2026-11-16T22:27:19.398851+00:00",
       "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
-      "title": "The revised rules of engineering management with Will Larson",
-      "source": "The Pragmatic Engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-10-21T16:58:21+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO."
-    },
-    {
-      "url": "https://martinfowler.com/fragments/2026-10-21.html",
-      "title": "Fragments: October 21",
-      "source": "Martin Fowler",
-      "author": "Martin Fowler (martin@martinfowler.com)",
-      "published": "2026-10-21T16:51:00+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you So when producing anything that is meant for other humans, if you use even a little AI, you risk the assumpt"
     }
   ]
 }
