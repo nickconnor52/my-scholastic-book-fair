@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-18T18:51:15.425539+00:00",
+  "updated": "2026-11-19T18:59:10.498275+00:00",
   "window_days": 28,
   "items": [
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-19T17:08:59+00:00",
+      "first_seen": "2026-11-19T18:59:10.498275+00:00",
+      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more"
+    },
     {
       "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
       "title": "Software factories and code reviews with Harjot Gill",
@@ -298,15 +307,6 @@
       "published": "2026-10-25T07:11:23+00:00",
       "first_seen": "2026-11-16T22:27:19.398851+00:00",
       "summary": "Interesting & joyful things from the previous week"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
-      "title": "The Pulse: Time to rethink software security because of AI?",
-      "source": "The Pragmatic Engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-10-22T14:08:21+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more"
     }
   ]
 }
