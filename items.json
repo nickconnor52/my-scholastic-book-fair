@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-20T18:37:04.059258+00:00",
+  "updated": "2026-11-21T17:31:59.901017+00:00",
   "window_days": 28,
   "items": [
+    {
+      "url": "https://lethain.com/explorer-pattern/",
+      "title": "The Explorer Pattern for product invention and development.",
+      "source": "Irrational Exuberance (Will Larson)",
+      "author": null,
+      "published": "2026-11-21T15:00:00+00:00",
+      "first_seen": "2026-11-21T17:31:59.901017+00:00",
+      "summary": "tl;dr: the Explorer Pattern is one individual or team building a functional implementation that minimizes cross-team and cross-functional impacts as much as humanly possible, and then reconciling the details with other teams after that prototype is completed, accepting that this approach can require very substantial rework to that initial development. Why write this? Imprint previously called this the “Tech-led” or “Engineering-led” development model, but it’s pretty unclear to folks what that means. This writeup provides a more defined term, the “Explorer Pattern”, and explains in more detail"
+    },
+    {
+      "url": "https://martinfowler.com/fragments/2026-11-20.html",
+      "title": "Fragments: November 20",
+      "source": "Martin Fowler",
+      "author": "Martin Fowler (martin@martinfowler.com)",
+      "published": "2026-11-20T18:38:00+00:00",
+      "first_seen": "2026-11-21T17:31:59.901017+00:00",
+      "summary": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review . Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%. The measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs: they highlighted Complex Method and Complex Conditional from the smells identified by CodeScene. Another"
+    },
     {
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
