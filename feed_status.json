@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T17:50:29.627864+00:00",
+  "updated": "2026-11-23T22:03:10.881959+00:00",
   "feeds": [
     {
       "name": "Simon Willison \u2013 agentic-engineering",
@@ -70,7 +70,7 @@
       "url": "https://lethain.com/feeds/",
       "ok": true,
       "http_status": 200,
-      "entries": 11,
+      "entries": 12,
       "error": null
     }
   ]

@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-22T17:50:29.627864+00:00",
+  "updated": "2026-11-23T22:03:10.881959+00:00",
   "window_days": 28,
   "items": [
+    {
+      "url": "https://lethain.com/passing-100-prs-in-a-week/",
+      "title": "Shipping 100+ PRs to production in a week",
+      "source": "Irrational Exuberance (Will Larson)",
+      "author": null,
+      "published": "2026-11-22T12:00:00+00:00",
+      "first_seen": "2026-11-23T22:03:10.881959+00:00",
+      "summary": "After pushing towards the goal for some time, I finally shipped 100+ pull requests to production in a week, reaching 115 the week of November 9th. Because I’m vain, I’ll cook the numbers slightly to take the highest seven day period rather than calendar week, which up to this point peaks at 170 merged PRs. Of those 170, 17 nuanced and UX-centric PRs were written on a harness running on my laptop, and the remaining 153 were written on Imprint ’s internal cloud harness called fleet . About 150 of these were true production PRs that continuously deployed to production (but didn’t necessarily rele"
+    },
     {
       "url": "https://registerspill.thorstenball.com/p/joy-and-curiosity-107",
       "title": "Joy & Curiosity #107",
