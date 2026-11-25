@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-24T20:39:28.388570+00:00",
+  "updated": "2026-11-25T19:56:25.343727+00:00",
   "window_days": 28,
   "items": [
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "source": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "published": "2026-11-25T17:31:32+00:00",
+      "first_seen": "2026-11-25T19:56:25.343727+00:00",
+      "summary": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company."
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+      "title": "Abolish Lock Poisoning",
+      "source": "Armin Ronacher",
+      "author": "Armin Ronacher",
+      "published": "2026-11-25T00:00:00+00:00",
+      "first_seen": "2026-11-25T19:56:25.343727+00:00",
+      "summary": "Rust has a curious feature that I don’t think the language would land today, if it was not there for a long time: mutex poisoning. When some Rust code panics while holding a std::sync::Mutex , the mutex is poisoned . That means that any further call to lock() returns a PoisonError . The motivation for this feature is that an object might have some internal invariants that need to be upheld and panicking in the wrong moment might invalidate reasonable at and leave an object behind in a broken state. Personally I absolutely hate this feature as it has bitten me so many times and I cannot once re"
+    },
     {
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
       "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
@@ -307,33 +325,6 @@
       "published": "2026-10-29T00:00:00+00:00",
       "first_seen": "2026-11-16T22:27:19.398851+00:00",
       "summary": "With my kids I’m currently building a little dungeron crawler and we’re trying to learn a bit about game development along the way. However given that we live in the modern times of increasing capabilities we wanted to get a narrator and voice over. But we also wanted it to not sound like everyone’s standard AI voices so I looked into what options there are on the table. After some investigation I narrowed down to using Qwen3-TTS which uses voice embeddings for custom voices. With a bit of creativity you can also do more with those custom voices than appears initially. In case this is of inter"
-    },
-    {
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-      "title": "GitHub Octoverse 2026",
-      "source": "Simon Willison – agentic-engineering",
-      "author": null,
-      "published": "2026-10-28T16:45:23+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of this year. New repository rate doubled this year, to 30.3 million per month. The report includes new nu"
-    },
-    {
-      "url": "https://martinfowler.com/fragments/2026-10-28.html",
-      "title": "Fragments: October 28",
-      "source": "Martin Fowler",
-      "author": "Martin Fowler (martin@martinfowler.com)",
-      "published": "2026-10-28T12:55:00+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time. Many of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s not what most people experience. One thing I do is use free-tier LLM chatbots, and I’m still finding that "
-    },
-    {
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-      "title": "Quoting Terk Terkowitz",
-      "source": "Simon Willison – agentic-engineering",
-      "author": null,
-      "published": "2026-10-28T10:09:07+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , ai , generative-ai , llms , agentic-engineering"
     }
   ]
 }
