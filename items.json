@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:37:17.180289+00:00",
+  "updated": "2026-11-27T19:28:13.508166+00:00",
   "window_days": 28,
   "items": [
     {
@@ -253,33 +253,6 @@
       "published": "2026-11-01T08:49:36+00:00",
       "first_seen": "2026-11-16T22:27:19.398851+00:00",
       "summary": "Interesting & joyful things from the previous week"
-    },
-    {
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
-      "title": "The Pulse: Anthropic kills the coding interview",
-      "source": "The Pragmatic Engineer",
-      "author": "Gergely Orosz",
-      "published": "2026-10-30T16:37:51+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io’s AI spend, Microsoft’s exit offer to engineers, and more"
-    },
-    {
-      "url": "https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents",
-      "title": "What Karl Marx Would Say About My Coding Agents",
-      "source": "Every – Source Code",
-      "author": "Loren Stewart / Source Code",
-      "published": "2026-10-30T16:07:28+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "in Source Code Midjourney/Every illustration. Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand Click here to read the full post Want the full text of all articles in RSS? Become a subscriber , or learn more ."
-    },
-    {
-      "url": "https://lethain.com/adopting-verification-pattern/",
-      "title": "Self-reinforcing quality / adopting verification pattern",
-      "source": "Irrational Exuberance (Will Larson)",
-      "author": null,
-      "published": "2026-10-30T12:00:00+00:00",
-      "first_seen": "2026-11-16T22:27:19.398851+00:00",
-      "summary": "After implementing the small-change pattern, Imprint Engineering’s next focus in improving our development loop has been implementing a verification loop for our software development. This is an increasingly common pattern, particularly popularized by poteto’s pstack , but you’ll find similar ideas emerging in other places as well, e.g. Niko Matsakis’ post on the correctness ratchet , among others. This captures some of the confusion I’ve seen in our initial rollout, and the particulars of how we are implementing the approach. What verification pattern is, and what it isn’t The verification pa"
     }
   ]
 }
