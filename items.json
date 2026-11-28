@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-27T19:28:13.508166+00:00",
+  "updated": "2026-11-28T18:15:29.016061+00:00",
   "window_days": 28,
   "items": [
+    {
+      "url": "https://lethain.com/independent-reproduction-of-results/",
+      "title": "Shaping the industry through independent reproduction of results within our companies",
+      "source": "Irrational Exuberance (Will Larson)",
+      "author": null,
+      "published": "2026-11-27T13:00:00+00:00",
+      "first_seen": "2026-11-28T18:15:29.016061+00:00",
+      "summary": "A friend who angel invests shared that some of his pre-seed investments are considering shutting down before even trying to raise their next round. This isn’t super surprising; many early-stage startups are struggling to hit the growth expectations to raise, which are extremely high at the moment, but what’s been interesting is why these companies are losing confidence: they’re just not sure there’s a need for software anymore, given how rapidly a good harness with a frontier model can build. This anxiety about the future isn’t limited to young startups; you can find it in startups of almost a"
+    },
     {
       "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
       "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
